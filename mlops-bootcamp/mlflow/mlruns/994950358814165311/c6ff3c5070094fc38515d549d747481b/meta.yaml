@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/994950358814165311/c6ff3c5070094fc38515d549d747481b/artifacts
+end_time: 1733924188339
+entry_point_name: ''
+experiment_id: '994950358814165311'
+lifecycle_stage: active
+run_id: c6ff3c5070094fc38515d549d747481b
+run_name: nebulous-crane-950
+run_uuid: c6ff3c5070094fc38515d549d747481b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733924188305
+status: 3
+tags: []
+user_id: lcap

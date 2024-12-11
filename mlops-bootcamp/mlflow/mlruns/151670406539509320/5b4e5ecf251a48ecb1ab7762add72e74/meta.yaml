@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151670406539509320/5b4e5ecf251a48ecb1ab7762add72e74/artifacts
+end_time: 1733927045334
+entry_point_name: ''
+experiment_id: '151670406539509320'
+lifecycle_stage: active
+run_id: 5b4e5ecf251a48ecb1ab7762add72e74
+run_name: tasteful-newt-667
+run_uuid: 5b4e5ecf251a48ecb1ab7762add72e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733927043431
+status: 3
+tags: []
+user_id: lcap
